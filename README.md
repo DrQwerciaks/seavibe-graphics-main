@@ -1,4 +1,4 @@
-# FS-Graphics
+# Graphics
 
 FiveM Graphics Made By (Jakiś random) Re-Work (DrQWerciak)
 
